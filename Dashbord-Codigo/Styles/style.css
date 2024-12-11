@@ -1,0 +1,8 @@
+.navbar-nav .nav-link {
+  color: white;  /* Color normal de los enlaces */
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #235B4E;  /* Color al pasar el mouse o cuando está activo */
+}
